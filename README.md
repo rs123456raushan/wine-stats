@@ -80,5 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This project is licensed under the MIT License.
 
-Please note that in this updated version, the `npm install` commands have been replaced with `yarn install`, and the `npm run build` and `npm run start` commands have been replaced with `yarn build` and `yarn start` commands respectively. Make sure to update the actual paths of the screenshots and any other necessary details in the README.md file.
-
+Please note that in this updated version, the `npm install` commands have been replaced with `yarn install`, and the `npm run build` and `npm run start` commands have been replaced with `yarn build` and `yarn start` commands respectively.
