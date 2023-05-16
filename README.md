@@ -6,8 +6,8 @@ This project aims to perform a statistical analysis on the Wine Data Set, which 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
 - [Learn More](#learnmore)
+- [License](#license)
 
 ## Installation
 1. Clone the repository.
