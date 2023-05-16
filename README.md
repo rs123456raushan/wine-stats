@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Wine Data Set Statistical Analysis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project aims to perform a statistical analysis on the Wine Data Set, which contains information about various wines. The goal is to calculate several statistical measures for different properties of the wines and present them in a tabular format.
+
+## Table of Contents
+- [Installation](#installation)
+
+## Installation
+1. Clone the repository.
+2. Install the dependencies using `yarn`:
+   ```shell
+   yarn install
 
 ## Available Scripts
 
@@ -69,3 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### License
+
+Please note that in this updated version, the `npm install` commands have been replaced with `yarn install`, and the `npm run build` and `npm run start` commands have been replaced with `yarn build` and `yarn start` commands respectively. Make sure to update the actual paths of the screenshots and any other necessary details in the README.md file.
+
